@@ -1,0 +1,194 @@
+[
+	{
+		"id": 1,
+		"option": "EI",
+		"question": "데이트가 없는 주말에 나는?",
+		"image": "img/questionImage/1.jpeg",
+		"answers": [
+			{
+				"type": "E",
+				"content": "단톡에 연락해서 친구들과 약속을 잡는다."
+			},
+			{
+				"type": "I",
+				"content": "침대랑 하루 종일 물아일체가 된다."
+			}
+		]
+	},
+	{
+		"id": 2,
+		"option": "EI",
+		"question": "나의 자취방에 이성친구가 데이트하러 왔다가 하루, 이틀, 사흘, 보름을 머물게 된다면, 나의 반응은?",
+		"image": "img/questionImage/2.jpeg",
+		"answers": [
+			{
+				"type": "E",
+				"content": "이게 편하니까 계속 이렇게 지낸다."
+			},
+			{
+				"type": "I",
+				"content": "이제 집에 좀 가줄래?"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"option": "EI",
+		"question": "친구의 소개팅으로 나온 나는",
+		"image": "img/questionImage/3.png",
+		"answers": [
+			{
+				"type": "E",
+				"content": "먼저 말 걸면서 분위기를 띄운다."
+			},
+			{
+				"type": "I",
+				"content": "말을 걸어올 때까지 기다리고 본다"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"option": "SN",
+		"question": "사랑하는 사람과 결혼을 하기로 약속했다. 근데 사랑하는 사람이 원하는 결혼식의 장소가 내가 원하는 곳이 아니다. (전통혼례, 교회, 성당, 스몰웨딩, 수중 결혼식 등)",
+		"image": "img/questionImage/4.jpeg",
+		"answers": [
+			{
+				"type": "S",
+				"content": "현실적으로 가능하면 맞춰준다."
+			},
+			{
+				"type": "N",
+				"content": "나만의 상상한 결혼식을 설득해보겠다."
+			}
+		]
+	},
+	{
+		"id": 5,
+		"which": "SN",
+		"question": "나는 취업 준비생이다. 나의 연인은 잘나가는 대기업에 다니고 있다. 만날 때마다 나의 연인은 회사 생활을 얘기한다. 이때 내가 드는 생각은?",
+		"image": "img/questionImage/5.jpg",
+		"answers": [
+			{
+				"type": "S",
+				"content": "취업 준비를 하고 있는 현실의 나의 모습을 본다."
+			},
+			{
+				"type": "N",
+				"content": " 나도 그 대기업에 다니는 상상한다. 점심에 같이 여의도 한강에서 전심을 먹고, 저녁에 같이 퇴근해서 자기계발을 한다. 주말마다 같이 여행을 다니고 같이 직장 동료에 대한 스트레스를 나누고.....(상상 가득)"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"which": "SN",
+		"question": "내가 더 선호하는 대화는?",
+		"image": "img/questionImage/6.png",
+		"answers": [
+			{
+				"type": "S",
+				"content": "요즘 근황이나 최근에 관심을 갖고 있는 일에 대해서 이야기한다."
+			},
+			{
+				"type": "N",
+				"content": "앞으로의 미래나 나중에 하고싶은 일에 대해서 이야기한다."
+			}
+		]
+	},
+	{
+		"id": 7,
+		"option": "TF",
+		"question": "내가 학교, 직장에서 힘든 일을 겪었다. 너무 힘들어서 모든 연락도 끊고 히키코모리 같이 있는 상황이다. 이때 나의 연인이 해줬으면 하는 반응은?",
+		"image": "img/questionImage/7.png",
+		"answers": [
+			{
+				"type": "T",
+				"content": "나의 상황을 객관적으로 봐라봐 주고, 나아갈 방향을 알려주면 좋겠다."
+			},
+			{
+				"type": "F",
+				"content": "나의 상황을 공감해주고, 이해해주면 좋겠다."
+			}
+		]
+	},
+	{
+		"id": 8,
+		"option": "TF",
+		"question": "메신저로 내 연인이 “자고 일어났는데 바퀴벌레로 변했다고 한다면 어떻게 할거야?” 라고 질문을 했다. 그때 나의 대답은?",
+		"image": "img/questionImage/8.jpeg",
+		"answers": [
+			{
+				"type": "T",
+				"content": "바퀴벌레에서 어떻게 다시 사람으로 돌릴 수 있을지 방법을 찾아볼게."
+			},
+			{
+				"type": "F",
+				"content": "바퀴벌레라도 널 사랑하겠어.."
+			}
+		]
+	},
+	{
+		"id": 9,
+		"option": "TF",
+		"question": "연인과 갈등 상황에 나는?",
+		"image": "img/questionImage/9.gif",
+		"answers": [
+			{
+				"type": "T",
+				"content": "답답하지만 이성적으로 갈등을 풀어가려고 침착하게 말한다."
+			},
+			{
+				"type": "F",
+				"content": "할 말은 많은데 감정이 먼저 상해서 생각 정리가 잘 안된다."
+			}
+		]
+	},
+	{
+		"id": 10,
+		"option": "JP",
+		"question": "연인이 연말, 연초에 '올해 뭐할까?'라는 질문을 던진다. 이때 내가 할 답변은?",
+		"image": "img/questionImage/10.jpeg",
+		"answers": [
+			{
+				"type": "J",
+				"content": "상반기에는 나중에 너의 해외 유학을 생각해서 같이 영어 공부를 하고, 7월에는 돈을 모아서 여름 휴가 때 해외 여행을 갈거야. 그러니까 우리는 다음달부터 통장을 개설해서 같이 돈을 모으고…"
+			},
+			{
+				"type": "P",
+				"content": "그러게ㅎㅎ네가 하고 싶은거면 다좋아~~"
+			}
+		]
+	},
+	{
+		"id": 11,
+		"option": "JP",
+		"question": "시간 계산을 잘못 계산했다. 근데 나는 나갈 준비(옷, 화장 등)가 안되었다. 약속을 앞둔 가운데 어떻게 행동할 것인가?",
+		"image": "img/questionImage/11.jpeg",
+		"answers": [
+			{
+				"type": "J",
+				"content": "시간 약속을 위해서 준비가 덜 되어도 약속을 더 우선적으로 할 것이다."
+			},
+			{
+				"type": "P",
+				"content": "늦더라도 완벽하게 준비를 다 하고 출발할 것이다."
+			}
+		]
+	},
+	{
+		"id": 12,
+		"option": "JP",
+		"question": "나만의 여행지에 맛집 찾는 방법은?",
+		"image": "img/questionImage/12.jpeg",
+		"answers": [
+			{
+				"type": "J",
+				"content": "맛집 리스트를 쭉 뽑아와서 골라 간다!"
+			},
+			{
+				"type": "P",
+				"content": "식당에 사람이 바글바글하니깐 일단 들어가 본다!"
+			}
+		]
+	}
+]
